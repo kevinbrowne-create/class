@@ -1,1 +1,2 @@
+adding some content to file.txt.
 some file content.txt
